@@ -1,0 +1,22 @@
+{
+  "name": "node.js-ci-cd-aws-lambda-api-gateway",
+  "version": "1.0.0",
+  "description": "This is a very simple Node app that does basically nothing except for the \"Hello world\" output.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamed-Fouladi/Node.js-CI-CD-AWS-Lambda-API-Gateway.git"
+  },
+  "author": "Hamed Fouladi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamed-Fouladi/Node.js-CI-CD-AWS-Lambda-API-Gateway/issues"
+  },
+  "homepage": "https://github.com/Hamed-Fouladi/Node.js-CI-CD-AWS-Lambda-API-Gateway#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
